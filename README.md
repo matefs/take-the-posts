@@ -4,7 +4,7 @@ ReactJS + Wordpress, consulta um site wordpress e pega os posts
 
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 
