@@ -9,4 +9,4 @@ yarn install
 
 
 ### Project Image
-![image](https://user-images.githubusercontent.com/30128774/200115509-c850ff45-a085-4017-88a9-18f36ba29178.png)
+![image](https://user-images.githubusercontent.com/30128774/200689925-242be6ce-a990-460b-a423-56c6c98661bd.png)
