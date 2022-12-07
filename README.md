@@ -1,6 +1,5 @@
 # take-the-posts
-ReactJS + Wordpress, consulta um site wordpress e pega os posts 
-
+ReactJS + Wordpress, consulta um site específico que utiliza wordpress e lista os posts
 
 ## Project setup
 ```
